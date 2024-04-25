@@ -38,14 +38,14 @@ npm start
 ### 5- Accounts
 ![Accounts](https://drive.google.com/uc?export=view&id=18KZ73Z8iJL6Oo3UVlssV_PS9KygldJ7C) <br />
 ### 6- Account Detail
-![Account Detail](https://drive.google.com/uc?export=view&id=10nJQ8NL1GZiqswZWQcFzYqSpnUigTpBC) <br />
+![Account Detail](https://drive.google.com/uc?export=view&id=1R1JmF4-rQ_RiKaMS56cIBT5M9yRq4Ol4) <br />
 ### 7- Delete Account
-![Delete Account](https://drive.google.com/uc?export=view&id=1VbNo9772hMSOsZxCbTtszPRagURVyvjO) <br />
+![Delete Account](https://drive.google.com/uc?export=view&id=1vN89C7BfQIbScISfs4ze3fDmvThwnN86) <br />
 ### 8- Deposit Amount
-![Deposit Amount](https://drive.google.com/uc?export=view&id=16z9KkkYLNCs9EQVRKz-RMKOwrYqBnfpd) <br />
+![Deposit Amount](https://drive.google.com/uc?export=view&id=1YEjex5uG5pct4AWvwWb3n6GHLoQJoZs4) <br />
 ### 9- Withdraw Amount
-![Withdraw Amount](https://drive.google.com/uc?export=view&id=1I8lJFSvQfMKg3x1nIE-1POdepE1-_DdT) <br />
+![Withdraw Amount](https://drive.google.com/uc?export=view&id=1YVVbmtJxwwq3xg_W7GJ1MtWGEIF5Tp8n) <br />
 ### 10- Transactions
-![Transactions](https://drive.google.com/uc?export=view&id=1c4FJ7KTjVxkw3qLw2FtTOOU9mFQg67-l) <br />
+![Transactions](https://drive.google.com/uc?export=view&id=1XkYSNWuxc0a3KaUaivf4aMPutijSwL2k) <br />
 ### 11- View Transaction
-![View Transaction](https://drive.google.com/uc?export=view&id=1WlnGSXCgJezjskNzTW-OjLi3ocd2vFAo) <br /> <br />
+![View Transaction](https://drive.google.com/uc?export=view&id=1JTH_XI1X6tvy9YP31u-gWTX47d_x9XAc) <br /> <br />
