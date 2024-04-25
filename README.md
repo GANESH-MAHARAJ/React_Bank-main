@@ -34,9 +34,9 @@ npm start
 ### 3- Dashboard
 ![Dashboard](https://drive.google.com/uc?export=view&id=16ZRkhX37H_zDWko68TFLyZksCt9QgMo1) <br />
 ### 4- Create Account
-![Create Account](https://drive.google.com/uc?export=view&id=1B7le7yH3tBVYN-c3i6AayHJOiF_gWFGT) <br />
+![Create Account](https://drive.google.com/uc?export=view&id=1LDpr3IWOTD8PUh1MdRT2TOvcmdtEAOel) <br />
 ### 5- Accounts
-![Accounts](https://drive.google.com/uc?export=view&id=1J0aIgKK4-Wyt3LuCV8mqgCUXGjNBkbAa) <br />
+![Accounts](https://drive.google.com/uc?export=view&id=18KZ73Z8iJL6Oo3UVlssV_PS9KygldJ7C) <br />
 ### 6- Account Detail
 ![Account Detail](https://drive.google.com/uc?export=view&id=10nJQ8NL1GZiqswZWQcFzYqSpnUigTpBC) <br />
 ### 7- Delete Account
