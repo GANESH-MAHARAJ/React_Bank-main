@@ -28,24 +28,24 @@ npm start
 ```
 
 ### 1- Landing Page
-![Landing Page] <br />
+![Landing Page](https://drive.google.com/uc?export=view&id=19XBNubWZF4jQgFx9UClyUrBYnddZPYZJ) <br />
 ### 2- Login Page
-![Login Page]<br />
+![Login Page](https://drive.google.com/uc?export=view&id=1GB-3vaqG5_8RjcFu-_1zT4vsXMubuJ09) <br />
 ### 3- Dashboard
-![Dashboard] <br />
+![Dashboard](https://drive.google.com/uc?export=view&id=12qeUUkxHByYylsQH1mBH0LbyzBpbc1Ax) <br />
 ### 4- Create Account
-![Create Account] <br />
+![Create Account](https://drive.google.com/uc?export=view&id=1B7le7yH3tBVYN-c3i6AayHJOiF_gWFGT) <br />
 ### 5- Accounts
-![Accounts] <br />
+![Accounts](https://drive.google.com/uc?export=view&id=1J0aIgKK4-Wyt3LuCV8mqgCUXGjNBkbAa) <br />
 ### 6- Account Detail
-![Account Detail] <br />
+![Account Detail](https://drive.google.com/uc?export=view&id=10nJQ8NL1GZiqswZWQcFzYqSpnUigTpBC) <br />
 ### 7- Delete Account
-![Delete Account] <br />
+![Delete Account](https://drive.google.com/uc?export=view&id=1VbNo9772hMSOsZxCbTtszPRagURVyvjO) <br />
 ### 8- Deposit Amount
-![Deposit Amount] <br />
+![Deposit Amount](https://drive.google.com/uc?export=view&id=16z9KkkYLNCs9EQVRKz-RMKOwrYqBnfpd) <br />
 ### 9- Withdraw Amount
-![Withdraw Amount] <br />
+![Withdraw Amount](https://drive.google.com/uc?export=view&id=1I8lJFSvQfMKg3x1nIE-1POdepE1-_DdT) <br />
 ### 10- Transactions
-![Transactions] <br />
+![Transactions](https://drive.google.com/uc?export=view&id=1c4FJ7KTjVxkw3qLw2FtTOOU9mFQg67-l) <br />
 ### 11- View Transaction
-![View Transaction] <br /> <br />
+![View Transaction](https://drive.google.com/uc?export=view&id=1WlnGSXCgJezjskNzTW-OjLi3ocd2vFAo) <br /> <br />
