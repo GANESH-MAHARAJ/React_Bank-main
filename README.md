@@ -28,7 +28,7 @@ npm start
 ```
 
 ### 1- Landing Page
-![Landing Page](https://drive.google.com/file/d/1lr6s91L96AjXSQ0ydxj8huh1B3OCMjhE/view?usp=drive_link) <br />
+![Landing Page](https://drive.google.com/uc?export=view&id=1lr6s91L96AjXSQ0ydxj8huh1B3OCMjhE) <br />
 ### 2- Login Page
 ![Login Page](https://drive.google.com/uc?export=view&id=1GB-3vaqG5_8RjcFu-_1zT4vsXMubuJ09) <br />
 ### 3- Dashboard
