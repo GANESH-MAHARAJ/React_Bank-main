@@ -32,7 +32,7 @@ npm start
 ### 2- Login Page
 ![Login Page](https://drive.google.com/uc?export=view&id=15QeGB3hoSLmgFTViaJSAnklMoYHYyjQf) <br />
 ### 3- Dashboard
-![Dashboard](https://drive.google.com/uc?export=view&id=12qeUUkxHByYylsQH1mBH0LbyzBpbc1Ax) <br />
+![Dashboard](https://drive.google.com/uc?export=view&id=16ZRkhX37H_zDWko68TFLyZksCt9QgMo1) <br />
 ### 4- Create Account
 ![Create Account](https://drive.google.com/uc?export=view&id=1B7le7yH3tBVYN-c3i6AayHJOiF_gWFGT) <br />
 ### 5- Accounts
