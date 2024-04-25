@@ -5,7 +5,7 @@
 **The Bank-App is a full-stack web application** built with **React JS** and **Firebase**, which aims to provide users with a secure and convenient way to manage their banking needs. 
 <br />
 
-![Account Detail](https://drive.google.com/uc?export=view&id=10nJQ8NL1GZiqswZWQcFzYqSpnUigTpBC) <br /> <br />
+![Account Detail](https://drive.google.com/uc?export=view&id=1R1JmF4-rQ_RiKaMS56cIBT5M9yRq4Ol4) <br /> <br />
 
 The application includes a range of functionalities, such as-
 * Authentication with email and password, as well as login via social media accounts like Google, Facebook, and Github.
